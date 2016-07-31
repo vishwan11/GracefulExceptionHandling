@@ -1,1 +1,6 @@
 c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\bin\Debug\GracefulExceptionHandling.exe.config
+c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\bin\Debug\GracefulExceptionHandling.exe
+c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\bin\Debug\GracefulExceptionHandling.pdb
+c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\obj\Debug\GracefulExceptionHandling.csprojResolveAssemblyReference.cache
+c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\obj\Debug\GracefulExceptionHandling.exe
+c:\users\viswa\onedrive\documents\visual studio 2015\Projects\GracefulExceptionHandling\GracefulExceptionHandling\obj\Debug\GracefulExceptionHandling.pdb
